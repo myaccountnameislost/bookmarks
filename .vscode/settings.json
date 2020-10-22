@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/lantos/.local/share/virtualenvs/bookmarks-NsnX8VuX/bin/python",
+    "python.linting.banditEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintEnabled": true
+}
